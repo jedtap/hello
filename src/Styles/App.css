@@ -1,0 +1,34 @@
+:root {
+  --white: #FAFAFA;
+  --black: #212529;
+  --blue-dark: #162661;
+  --blue-normal: #284393;
+  --blue-light: #3D62B4;
+}
+
+@font-face {
+  font-family: Bangers;
+  src: url('../Fonts/Bangers-Regular.ttf');
+}
+
+@font-face {
+  font-family: Oswald-bold;
+  src: url('../Fonts/Oswald-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: Oswald;
+  src: url('../Fonts/Oswald-Regular.ttf');
+}
+
+body {
+  background: var(--white) !important;
+}
+
+.section-name {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+
+  font-family: Oswald-bold, 'Franklin Gothic Medium', Arial, sans-serif;
+}
