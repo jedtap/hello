@@ -3,7 +3,7 @@ import '../Styles/Navbar.css';
 
 const Navbar = () => {
   return (<>
-    <nav className="navbar navbar-expand-lg ">
+    <nav className="navbar sticky-top navbar-expand-lg ">
       <div className="container-fluid">
         <a className="navbar-brand" href="https://google.com">Jed Tapiador</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

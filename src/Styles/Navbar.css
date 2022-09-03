@@ -1,5 +1,6 @@
 .navbar {
   margin: 1vh 5vw;
+  background: var(--white);
 }
 
 .navbar-brand {

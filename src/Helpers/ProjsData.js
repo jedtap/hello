@@ -2,7 +2,7 @@ import Etch from '../Images/etch.jpg';
 import Store from '../Images/store.jpg';
 import ConnectFour from '../Images/connectfour.jpg';
 import Pins from '../Images/pins.jpg';
-import Chess from '..Images/chess.jpg';
+import Chess from '../Images/chess.jpg';
 import Admin from '../Images/admin.jpg';
 import Mukhabook from '../Images/mukhabook.jpg';
 import Library from '../Images/library.jpg';
