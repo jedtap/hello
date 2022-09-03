@@ -1,0 +1,19 @@
+.about-title {
+  margin: 30px 0;
+}
+
+.about-content {
+  display: flex;
+  justify-content: center;
+}
+
+.about-wrapper {
+  display: grid;
+  grid-template-columns: 350px 600px;
+  gap: 20px;
+}
+
+.about-toga {
+  width: 350px;
+  height: auto;
+}
