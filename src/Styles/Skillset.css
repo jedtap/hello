@@ -36,4 +36,27 @@
 
 .tile-wrapper > i {
   font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.skillset-items-exp {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.exp-items {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.exp-icons {
+  width: 30px;
+  height: auto;
+}
+
+.exp-names {
+  margin-bottom: 0;
+  font-size: 16px;
 }
