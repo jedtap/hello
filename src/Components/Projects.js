@@ -13,9 +13,9 @@ const Projects = () => {
 
         { ProjsData.map((item, key) => 
           <div className="projects-tile" key={key}>
-            <img src={item.img} alt={item.alt} />
+            <a href={item.live} target="_blank" title="Visit project's live demo"> <img src={item.img} alt={item.alt} className="projects-preview" /> </a>
             <div className="projects-header">
-              <h2>{item.name}</h2>
+            <a href={item.live} target="_blank" title="Visit project's live demo"> <h2 className="projects-name">{item.name}</h2> </a>
               <div className="projects-icons">
                 <a href={item.github} target="_blank" title="Check out the code here"><img className="proj-icon-tile" src={Github} /></a>
                 <a href={item.live} target="_blank" title="Visit project's live demo"><img className="proj-icon-tile" src={Open} /></a>  

@@ -24,8 +24,15 @@
   flex-direction: column;
 }
 
-.projects-tile > img {
+.projects-preview {
   border-radius: 5px;
+  transform: scale(1, 1);
+  transition: transform 0.2s ease-in-out 0s;
+}
+
+:hover.projects-preview {
+  transform: scale(1.1, 1.1);
+  transition: transform 0.2s ease-in-out 0.1s;
 }
 
 .projects-header {
@@ -36,9 +43,21 @@
   justify-content: space-around;
 }
 
-.projects-header > h2 {
+.projects-name {
   font-size: 20px;
   margin-bottom: 0;
+  text-decoration: none; 
+
+}
+
+.projects-header > a  {
+  color: var(--black-main);
+  text-decoration: none;
+}
+
+:hover.projects-name {
+  color: var(--blue-normal);
+  text-decoration: underline;
 }
 
 .projects-icons {
