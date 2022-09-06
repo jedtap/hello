@@ -2,9 +2,11 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import '../Styles/Navbar.css';
 
-const Navbar = () => {
+import Resume from '../Docs/Tapiador-Resume.pdf'
+
+const Navbar = ({ toggleContact }) => {
   return (<>
-    <nav className="navbar sticky-top navbar-expand-lg ">
+    <nav className="navbar navbar-expand-lg ">
       <div className="container-fluid">
 
         <Link to='/hello' className="navbar-brand">Jed Tapiador</Link>
@@ -18,16 +20,16 @@ const Navbar = () => {
               <Link to='/hello/about' className="nav-link">About</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://google.com">Contact</a>
+              <div className="nav-link" onClick={()=>{toggleContact()}}>Contact</div>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://google.com">GitHub</a>
+              <a className="nav-link" href="https://github.com/jedtap" target="_blank">GitHub</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://google.com">LinkedIn</a>
+              <a className="nav-link" href="https://www.linkedin.com/in/jed-tapiador" target="_blank">LinkedIn</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://google.com">Resume</a>
+              <a className="nav-link" href={Resume} target="_blank">Resume</a>
             </li>
 
           </ul>

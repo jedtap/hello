@@ -4,6 +4,7 @@
   --blue-dark: #162661;
   --blue-normal: #284393;
   --blue-light: #3D62B4;
+  --shadow: rgba(0, 0, 0, 0.5);
 }
 
 @font-face {

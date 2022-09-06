@@ -7,3 +7,7 @@
   font-family: Bangers, 'Arial Narrow Bold', sans-serif;
   font-size: 10px;
 }
+
+:hover.nav-link {
+  cursor: pointer;
+}
