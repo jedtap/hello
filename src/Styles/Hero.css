@@ -10,8 +10,7 @@
   width: auto;
   margin: auto;
 
-  display: grid;
-  grid-template-columns: auto auto;
+  display: flex;
   gap: 10px;
   align-content: center;
   justify-content: center;
@@ -19,7 +18,7 @@
 
 .hero-name {
   font-family: Bangers, 'Arial Narrow Bold', sans-serif;
-  font-size: 5vw;
+  font-size: 6vw;
   margin-bottom: 0;
 
   justify-self: flex-end;
