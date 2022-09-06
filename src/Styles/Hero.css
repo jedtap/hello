@@ -41,3 +41,18 @@
 .hero-headline {
   margin-bottom: 0;
 }
+
+@media (max-width: 840px) {
+  .hero-content {
+    flex-direction: column;
+  }
+
+  .hero-title, .hero-headline {
+    font-size: 3.5vw;
+  }
+
+  .hero-right {
+    border-left: 4px solid var(--black);
+    padding-left: 5px;
+  }
+}

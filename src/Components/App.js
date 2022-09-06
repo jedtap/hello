@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useEffect } from 'react';
 import '../Styles/App.css';
-import '../Styles/Mobile.css'
 
 import Hello from './Hello';
 import Navbar from './Navbar';

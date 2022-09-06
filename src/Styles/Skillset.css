@@ -60,3 +60,15 @@
   margin-bottom: 0;
   font-size: 16px;
 }
+
+@media (max-width: 840px) {
+  
+  .skillset-wrapper {
+    grid-template-columns: auto;
+    gap: 20px;
+  }
+
+  .skillset-items {
+    width: 90vw;
+  }
+}

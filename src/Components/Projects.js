@@ -7,7 +7,7 @@ import ProjsData from '../Helpers/ProjsData';
 
 const Projects = () => {
   return (<>
-    <h1 className='section-name'>PROJECTS</h1>
+    <h1 className='section-name projects-section-name'>PROJECTS</h1>
     <div className='content-wrap-projs'>
       <div className='projects-wrapper'>
 
