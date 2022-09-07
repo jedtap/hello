@@ -1,11 +1,11 @@
 # Welcome to Jed's Portfolio!
 
-Hi there! This is a portfolio website project made with the help of React JS and Bootstrap.<br/>
-Check the results here 👉 https://jedtap.github.io/hello
+Hi there! This is a portfolio website project made with the help of ReactJS and Bootstrap.<br/>
+Check the results here! 👉 https://jedtap.github.io/hello
 
 ## Frameworks and Tools Used
 
-- React JS framework
+- ReactJS
 - Bootstrap
 - Node-package manager (npm)
 - Git and GitHub
@@ -23,6 +23,11 @@ Check the results here 👉 https://jedtap.github.io/hello
 
 ## Guides Used
 
-- How to create a resume by Harvard: https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2022/04/undergrad_resumes_and_cover_letters-1.pdf
+- How to create a resume by Harvard University: https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2022/04/undergrad_resumes_and_cover_letters-1.pdf
 
 - How to deploy React app to GitHub pages by Ishara Malaviarachchi: https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e
+
+## How did you learn all this as a parttimer??
+
+I am grateful for the people behind The Odin Project. Without this free and open-source platform, I will not be able to create web applications such as this.<br/>
+Start your Web Development education here! 👉 https://www.theodinproject.com/
