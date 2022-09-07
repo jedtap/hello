@@ -30,4 +30,5 @@ Check the results here! 👉 https://jedtap.github.io/hello
 ## How did you learn all this as a parttimer??
 
 I am grateful for the people behind The Odin Project. Without this free and open-source platform, I will not be able to create web applications such as this.<br/>
+<br/>
 Start your Web Development education here! 👉 https://www.theodinproject.com/
