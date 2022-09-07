@@ -1,3 +1,28 @@
 # Welcome to Jed's Portfolio!
 
-Hi there! This is a portfolio website project made with the help of React JS and Bootstrap. Check the results here: https://jedtap.github.io/hello
+Hi there! This is a portfolio website project made with the help of React JS and Bootstrap.<br/>
+Check the results here 👉 https://jedtap.github.io/hello
+
+## Frameworks and Tools Used
+
+- React JS framework
+- Bootstrap
+- Node-package manager (npm)
+- Git and GitHub
+
+## Node Modules Used
+
+- React, React-dom, and React-router-dom
+- Bootstrap: https://getbootstrap.com/
+- Devicon: https://devicon.dev/
+
+## Google Fonts Used
+
+- Bangers: https://fonts.google.com/specimen/Bangers
+- Oswald: https://fonts.google.com/specimen/Oswald
+
+## Guides Used
+
+- How to create a resume by Harvard: https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2022/04/undergrad_resumes_and_cover_letters-1.pdf
+
+- How to deploy React app to GitHub pages by Ishara Malaviarachchi: https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e
