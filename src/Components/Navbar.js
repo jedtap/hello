@@ -29,6 +29,9 @@ const Navbar = ({ toggleContact }) => {
               <a className="nav-link" href="https://www.linkedin.com/in/jed-tapiador" target="_blank">LinkedIn</a>
             </li>
             <li className="nav-item">
+              <a className="nav-link" href="https://www.hackerrank.com/jed_tapiador" target="_blank">HackerRank</a>
+            </li>
+            <li className="nav-item">
               <a className="nav-link" href={Resume} target="_blank">Resume</a>
             </li>
 
