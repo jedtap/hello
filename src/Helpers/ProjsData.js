@@ -14,7 +14,7 @@ import Groups from '../Images/groups.jpg';
 
 const ProjsData = [
   { key: 401, name: 'Etch-a-sketch', img: Etch, alt: 'group of pixels form an image of a horse', desc: 'Paint on the web with this fun website! Purely made in HTML and CSS.', github: 'https://github.com/jedtap/etch-a-sketh', live: 'https://jedtap.github.io/etch-a-sketh/' },
-  { key: 402, name: 'E-commerce Store', img: Store, alt: 'mock image of a Pokémon store', desc: 'Shop now at this Pokémon store clone! Made in React JS and Rails.', github: 'https://github.com/jedtap/plush-store-alpha', live: 'https://rails-production-7bbb.up.railway.app/' },
+  { key: 402, name: 'E-commerce Store', img: Store, alt: 'mock image of a Pokémon store', desc: 'Shop now at this Pokémon store clone! Made in React JS and Rails.', github: 'https://github.com/jedtap/plush-store-alpha', live: 'https://rails-production-1951.up.railway.app/' },
   { key: 403, name: 'Connect Four', img: ConnectFour, alt: 'screenshot of connect four', desc: 'First person to match four of their color wins! Made in Ruby.', github: 'https://github.com/jedtap/connect-four', live: 'https://replit.com/@jeditap/Connect-Four' },
   { key: 404, name: 'Memory Pin Game', img: Pins, alt: 'image of 6 button pins', desc: 'Test your wits with this memory game! Inspired by TWEWY video game. Made in React JS.', github: 'https://github.com/jedtap/memory-pin-game', live: 'https://jedtap.github.io/memory-pin-game/' },
   { key: 412, name: 'Random GIF Search', img: RandGif, alt: 'screenshot of random GIF search app', desc: 'Search a random GIF! Made with Rails 7, Tailwind CSS, Hotwire, StimulusJS.', github: 'https://github.com/jedtap/random-gif', live: 'https://rails-production-b77f.up.railway.app/' },
