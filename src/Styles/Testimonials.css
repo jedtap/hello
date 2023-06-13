@@ -1,0 +1,61 @@
+.testimonials-wrapper {
+    margin-top: 30px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+.testimonial-unit {
+    height: auto;
+    width: 600px;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.testimonial-unit[data-name="Gretchen Vallente"] {
+    margin: 15px 0;
+    width: 860px;
+}
+
+.testimonial-photo {
+    height: 120px;
+    width: 120px;
+    margin: 0 15px 0 0;
+}
+
+.testimonial-desc {
+    width: 430px;
+}
+
+.testimonial-desc[data-name="Gretchen Vallente"] {
+    width: 700px
+}
+
+.testimonial-end {
+    margin: -5px 0;
+    font-size: small;
+}
+
+
+@media (max-width: 840px) {
+  
+    .testimonial-unit {
+        width: 85vw;
+        margin-bottom: 10px;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .testimonial-unit[data-name="Gretchen Vallente"] {
+        width: 85vw;
+    }
+
+    .testimonial-photo {
+        margin: 20px;
+    }
+
+  }
