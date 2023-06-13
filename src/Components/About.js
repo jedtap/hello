@@ -11,13 +11,13 @@ const About = () => {
         <img src={Toga} alt='Jed in a toga' className='about-toga'/>
         <div className='about-narrative'>
           <p>
-            Hi there! My name is Jed and I'm based in the Philippines. I have been working in the FMCG industry for over 3 years. Throughout my journey, I gained skills in project management, IT governance, portfolio management, and financial management. I have been studying web development since 2021 and now more than ready to use my knowledge with your team!
+            Hi there! My name is Jed and I'm based in the Philippines. I have been working in the FMCG industry for 4 years before moving into the startup scene. Throughout my journey, I gained skills in project management, IT governance, portfolio management, financial management, and even Agile/Scrum principles. In my free time since 2021, I have been studying all about web development. With such skills under my belt, I am more than ready to use my knowledge with your team!
           </p>
           <p>
-            It may be weird to see a licensed Mechanical Engineer learning web development in his free time. Do both disciplines even blend well? I get that a lot and I totally feel what you’re feeling right now. Fortunately, Mechanical Engineering is more modern than a generation ago. As early as my bachelor degree, we have been using tools such as MatLab and Lingo in solving equations. We even learn niche programming languages like C++, G-code, and Ladder logic to control the movement of machines. Even my master thesis made use of Genetic Algorithm to optimize components in a wind turbine.
+            It may be weird to see a licensed Mechanical Engineer learning web development in his free time. Do both disciplines even blend well? I get that a lot and I totally feel what you’re feeling right now. Fortunately, Mechanical Engineering is a more modern degree vs one generation ago. As early as my bachelor degree, we have been using tools such as MatLab and Lingo in solving equations. We even learn niche programming languages like C++, G-code, and Ladder logic to control the movement of machines. Even my master thesis made use of Genetic Algorithm to optimize components in a wind turbine.
           </p>
           <p>
-            Ever since COVID-19 slammed the country, I have been enjoying the benefits of remote work. This made me realize that the current state of work is remote (and there is no turning back!). Distance is no longer a barrier to work with a company based on the other side of the globe. I chose to learn how to build web applications because of its relevance in the next decades to come.
+            Ever since COVID-19 slammed the country, I realize that our talents and skills can be done at the comfort of our homes. Distance is no longer a barrier to work with a company based on the other side of the globe. With my skills in project management and web development, we will overcome any obstacle that may arise as we journey to your company’s long term vision.
           </p>
           <p>
             Outside of work, I love to explore new cuisine and complete video game series. I may be the awkward dude on our first meetup but that does not stop me from being the hard-working man people know me for. Lets connect!

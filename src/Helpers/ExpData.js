@@ -6,6 +6,7 @@ import Process from '../Icons/process.svg';
 import Governance from '../Icons/governance.svg';
 import Dev from '../Icons/dev.svg';
 import Teamwork from '../Icons/teamwork.svg';
+import Resource from '../Icons/group.svg';
 
 const ExpData = [
   { key: 301, name: 'Research', img: Research, alt: 'icon of an erlenmeyer flask' },
@@ -16,6 +17,7 @@ const ExpData = [
   { key: 306, name: 'IT Governance', img: Governance, alt: 'icon of an empty page and pencil' },
   { key: 307, name: 'Software Development', img: Dev, alt: 'icon of a computer and smart phone' },
   { key: 308, name: 'Agile and Scrum', img: Teamwork, alt: 'icon of 3 people standing united. Created by Chanut is Industries from freeicons.io' },
+  { key: 309, name: 'Resource Management', img: Resource, alt: 'icon of 3 different persons' },
 ];
 
 export default ExpData;
