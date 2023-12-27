@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hello/static/css/main.f04ebdcd.css",
-    "main.js": "/hello/static/js/main.4e970095.js",
+    "main.js": "/hello/static/js/main.2d552f31.js",
     "static/media/devicon.svg?biu5f3": "/hello/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/ging.png": "/hello/static/media/ging.7455c5c0a9984ee75166.png",
     "static/media/devicon.eot?biu5f3": "/hello/static/media/devicon.afa70020fddd5e5a3260.eot",
@@ -25,6 +25,7 @@
     "static/media/group.svg": "/hello/static/media/group.3f8e73082a5fd2ae1fb6f0d619a3cf05.svg",
     "static/media/financial.svg": "/hello/static/media/financial.65100a68b70fbeb508b7634691e6a2fe.svg",
     "index.html": "/hello/index.html",
+    "static/media/sdk.svg": "/hello/static/media/sdk.80fa44481c43d05b753444c33a396fb3.svg",
     "static/media/research.svg": "/hello/static/media/research.b0d02fed8fcb839b86cfb9ad3452bca4.svg",
     "static/media/governance.svg": "/hello/static/media/governance.3661cad7f843c82e0a2acf0ea856617c.svg",
     "static/media/open.svg": "/hello/static/media/open.203ed39ef5cfbf4da51bfc88926b4559.svg",
@@ -33,10 +34,10 @@
     "static/media/portfolio.svg": "/hello/static/media/portfolio.aad16625e61ecdc0de377c95bd9e3274.svg",
     "static/media/proj.svg": "/hello/static/media/proj.1ccfdf1966c473db64da14a532a86973.svg",
     "main.f04ebdcd.css.map": "/hello/static/css/main.f04ebdcd.css.map",
-    "main.4e970095.js.map": "/hello/static/js/main.4e970095.js.map"
+    "main.2d552f31.js.map": "/hello/static/js/main.2d552f31.js.map"
   },
   "entrypoints": [
     "static/css/main.f04ebdcd.css",
-    "static/js/main.4e970095.js"
+    "static/js/main.2d552f31.js"
   ]
 }
