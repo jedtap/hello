@@ -23,16 +23,16 @@ const Navbar = ({ toggleContact }) => {
               <div className="nav-link" onClick={()=>{toggleContact()}}>Contact</div>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://github.com/jedtap" target="_blank">GitHub</a>
+              <a className="nav-link" href="https://github.com/jedtap" target="_blank" rel="noopener noreferrer">GitHub</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://www.linkedin.com/in/jed-tapiador" target="_blank">LinkedIn</a>
+              <a className="nav-link" href="https://www.linkedin.com/in/jed-tapiador" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://www.hackerrank.com/jed_tapiador" target="_blank">HackerRank</a>
+              <a className="nav-link" href="https://jedtap.github.io/projects/" target="_blank" rel="noopener noreferrer">Project Management</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href={Resume} target="_blank">Resume</a>
+              <a className="nav-link" href={Resume} target="_blank" rel="noopener noreferrer">Resume</a>
             </li>
 
           </ul>
