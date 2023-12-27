@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hello/static/css/main.f04ebdcd.css",
-    "main.js": "/hello/static/js/main.c6e9308a.js",
+    "main.js": "/hello/static/js/main.4e970095.js",
     "static/media/devicon.svg?biu5f3": "/hello/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/ging.png": "/hello/static/media/ging.7455c5c0a9984ee75166.png",
     "static/media/devicon.eot?biu5f3": "/hello/static/media/devicon.afa70020fddd5e5a3260.eot",
@@ -11,9 +11,9 @@
     "static/media/bryan.png": "/hello/static/media/bryan.1f69a65882fc368418c0.png",
     "static/media/toga.jpg": "/hello/static/media/toga.5551b4060d51b6d6af81.jpg",
     "static/media/Bangers-Regular.ttf": "/hello/static/media/Bangers-Regular.0e89a2279da24d283991.ttf",
+    "static/media/Tapiador-Resume.pdf": "/hello/static/media/Tapiador-Resume.3611e8a59d39316b0cbc.pdf",
     "static/media/Oswald-SemiBold.ttf": "/hello/static/media/Oswald-SemiBold.7ea6b749e7a829164007.ttf",
     "static/media/Oswald-Regular.ttf": "/hello/static/media/Oswald-Regular.e815068d369177121fd8.ttf",
-    "static/media/Tapiador-Resume.pdf": "/hello/static/media/Tapiador-Resume.5c1218fa7c33ef80675c.pdf",
     "static/media/randgif.jpg": "/hello/static/media/randgif.5b41df82513e7b2526de.jpg",
     "static/media/pins.jpg": "/hello/static/media/pins.1c7df8c2d27f6f9ba401.jpg",
     "static/media/store.jpg": "/hello/static/media/store.ba85c043d90312d2517f.jpg",
@@ -33,10 +33,10 @@
     "static/media/portfolio.svg": "/hello/static/media/portfolio.aad16625e61ecdc0de377c95bd9e3274.svg",
     "static/media/proj.svg": "/hello/static/media/proj.1ccfdf1966c473db64da14a532a86973.svg",
     "main.f04ebdcd.css.map": "/hello/static/css/main.f04ebdcd.css.map",
-    "main.c6e9308a.js.map": "/hello/static/js/main.c6e9308a.js.map"
+    "main.4e970095.js.map": "/hello/static/js/main.4e970095.js.map"
   },
   "entrypoints": [
     "static/css/main.f04ebdcd.css",
-    "static/js/main.c6e9308a.js"
+    "static/js/main.4e970095.js"
   ]
 }
